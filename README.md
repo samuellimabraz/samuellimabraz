@@ -1,7 +1,5 @@
 <h1 align="center">Hey, I'm Samuel Lima</h1>
-<h3 align="center">A computer engineering student from Brasil</h3>
-
-- I’m currently learning **Android Development, TensorFlow**
+<h3 align="center">Learning..</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,6 +11,6 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<p>&nbsp;<img align="left" height="50%" src="https://github-readme-stats.vercel.app/api?username=samuellimabraz&show_icons=true&locale=en" alt="samuellimabraz" /></p>
+<p>&nbsp;<img align="left" height="50%" src="https://github-readme-stats.vercel.app/api?username=samuellimabraz&show_icons=true&locale=en&theme=solarized-light" alt="samuellimabraz" /></p>
 
-<p><img align="right" height="50%" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuellimabraz&show_icons=true&locale=en&layout=compact" alt="samuellimabraz" /></p>
+<p><img align="right" height="50%" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuellimabraz&show_icons=true&locale=en&layout=compact&theme=solarized-light" alt="samuellimabraz" /></p>
