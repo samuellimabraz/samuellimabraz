@@ -18,6 +18,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" height="15%" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuellimabraz&show_icons=true&locale=en&layout=compact&theme=nord" alt="samuellimabraz" /></p>
+<p><img align="left" height="35%" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuellimabraz&show_icons=true&locale=en&layout=compact&theme=nord" alt="samuellimabraz" /></p>
 
 
