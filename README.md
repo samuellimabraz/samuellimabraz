@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samuel lima braz" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+<a href="https://linkedin.com/in/samuellimabraz" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 <a href="https://instagram.com/samuellimabraz" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 <a href="" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 </p>
@@ -19,8 +19,8 @@
 </p>
 
 
-<p>&nbsp;<img align="left" height="50%" src="https://github-readme-stats.vercel.app/api?username=samuellimabraz&show_icons=true&locale=en&theme=solarized-light" alt="samuellimabraz" /></p>
+<p>&nbsp;<img align="left" height="50%" src="https://github-readme-stats.vercel.app/api?username=samuellimabraz&show_icons=true&locale=en&theme=nord" alt="samuellimabraz" /></p>
 
-<p><img align="right" height="50%" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuellimabraz&show_icons=true&locale=en&layout=compact&theme=solarized-light" alt="samuellimabraz" /></p>
+<p><img align="right" height="50%" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuellimabraz&show_icons=true&locale=en&layout=compact&theme=nord" alt="samuellimabraz" /></p>
 
 
