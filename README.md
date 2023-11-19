@@ -46,6 +46,10 @@ Currently, I am deeply engaged in a pioneering autonomous drone competition proj
   <a href="https://www.instagram.com/samuellimabraz/" alt="Instagram">
     <img height="25" src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/samuellimabraz/" alt="Instagram" target="_blank">
   </a>
+
+  <a href="https://www.kaggle.com/samuellimabraz" alt="Kaggle">
+    <img height="25" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&labelColor=20BEFF&logo=kaggle&logoColor=white&link=https://www.kaggle.com/samuellimabraz" alt="Kaggle" target="_blank">
+  </a>
 </div>
 
 
