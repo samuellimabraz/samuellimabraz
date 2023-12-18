@@ -41,7 +41,7 @@ Currently, I am deeply engaged in a pioneering autonomous drone competition proj
     <img height="25" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank">
   </a>
   
-  <a href="https://www.linkedin.com/in/samuel-lima-braz-7a9a1525b/">
+  <a href="https://www.linkedin.com/in/samuel-lima-braz/">
     <img height="25" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" target="_blank">
   </a>
   
