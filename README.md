@@ -23,13 +23,13 @@ Currently, I am deeply engaged in a pioneering autonomous drone competition proj
 ## Tools
 <div align="left">
   <!-- Ícone do Python -->
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,tensorflow,ros&theme=dark" alt="Python" width="290" height="50"/>
   <!-- Ícone do C++ -->
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" width="50" height="50"/>
+<!--   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" width="50" height="50"/> -->
   <!-- Ícone do Java -->
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="C++" width="50" height="50"/>
+<!--   <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="C++" width="50" height="50"/> -->
   <!-- Ícone do ROS -->
-  <img src="https://skillicons.dev/icons?i=ros&theme=dark" alt="ROS" width="50" height="50"/>
+<!--   <img src="https://skillicons.dev/icons?i=ros&theme=dark" alt="ROS" width="50" height="50"/> -->
   <!-- Ícone do OpenCV -->
   <img src="https://img.icons8.com/color/48/opencv.png" alt="opencv" width="50" height="50"/>
 </div>
