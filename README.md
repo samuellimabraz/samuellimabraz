@@ -8,19 +8,17 @@ Currently, I am deeply engaged in a pioneering autonomous drone competition proj
 
 
 ## Status
-<div style="display: inline_block" align="left">
-  <a href="https://github.com/samuellimabraz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellimabraz&theme=one_dark_pro&hide_langs_below=1" />
-  </a>
+<a href="https://github.com/samuellimabraz">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellimabraz&theme=one_dark_pro&hide_langs_below=1&layout=compact&hide=css,cmake&hide_progress=false&size_weight=0.1&count_weight=0.9" />
+</a>
+<a href="https://github.com/samuellimabraz">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samuellimabraz&show_icons=true&theme=one_dark_pro&layout=compact&card_width=320" />
+</a>
 
-  <a href="https://github.com/samuellimabraz">
-   <img align="right" src="https://github-readme-stats.vercel.app/api?username=samuellimabraz&show_icons=true&theme=one_dark_pro&line_height=27" alt="**Samuel Lima Braz** github stats"/>
-  </a>
-</div>
 <br>  
 
 ## Tools
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,ros,opencv,scikitlearn,python,cpp,java,c,linux,ubuntu,raspberrypi,arduino&theme=dark&perline=4" alt="Skills" width="310"/>
   </a>
