@@ -63,13 +63,16 @@
   </a>
 </p>
 
-- #### **Systems**
+- #### **Systems & Tools**
 <p align="left">
-  <a href="https://www.kernel.org/">
-    <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="40" height="40"/>
-  </a>
   <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.kernel.org/">
+    <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="40" height="40"/>
   </a>
   <a href="https://www.raspberrypi.org/">
     <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" width="40" height="40"/>
