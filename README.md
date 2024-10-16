@@ -1,10 +1,12 @@
 # Hi, I'm Samuel Lima
 
-I'm a Computer Engineering undergraduate student with a passion for robotics and artificial intelligence.
+I'm a Computer Engineering undergraduate student with a passion for robotics and artificial intelligence. More specifically in the areas of Computer Vision and Generative AI.
 
-<img align="left" width="25" height="25" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f41d.gif" alt="Descrição do GIF">
+<img align="left" width="25" height="25" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f41d.gif" alt="Bee">
 
 Currently, I am deeply engaged in a pioneering autonomous drone competition project as a member of the team at [Black Bee Drones](https://www.instagram.com/blackbeedrones?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==).
+
+I'm working at [Tech4Humans](https://www.tech4h.com.br/#portfolio) as an AI Engineer. <img align="center" width="30" height="30" src="https://assets-global.website-files.com/65155fabb679475d43638cde/65396826ed65fb2d37f242cf_tech4humans.png" alt="tech4h"> 
 
 
 ## Status
@@ -20,7 +22,7 @@ Currently, I am deeply engaged in a pioneering autonomous drone competition proj
 ## Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,ros,opencv,scikitlearn,python,cpp,java,c,linux,ubuntu,raspberrypi,arduino&theme=dark&perline=4" alt="Skills" width="310"/>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,ros,opencv,python,cpp,java,c,linux,git,raspberrypi,arduino&theme=dark&perline=4" alt="Skills" width="310"/>
   </a>
 </p>
 
