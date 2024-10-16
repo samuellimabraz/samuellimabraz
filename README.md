@@ -6,7 +6,7 @@ I'm a Computer Engineering undergraduate student with a passion for robotics and
 
 Currently, I am deeply engaged in a pioneering autonomous drone competition project as a member of the team at [Black Bee Drones](https://www.instagram.com/blackbeedrones?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==).
 
-I'm working at [Tech4Humans](https://www.tech4h.com.br/#portfolio) as an AI Engineer. <img align="center" width="30" height="30" src="https://assets-global.website-files.com/65155fabb679475d43638cde/65396826ed65fb2d37f242cf_tech4humans.png" alt="tech4h"> 
+<img align="center" width="30" height="30" src="https://assets-global.website-files.com/65155fabb679475d43638cde/65396826ed65fb2d37f242cf_tech4humans.png" alt="tech4h"> I'm working at [Tech4Humans](https://www.tech4h.com.br/#portfolio) as an AI Engineer.
 
 
 ## Status
