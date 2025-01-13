@@ -28,59 +28,61 @@
 
 ### 🛠️ **Tech Stack & Tools**
 
-- #### **Frameworks**
-<p align="left">
-  <a href="https://pytorch.org/">
-    <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/">
-    <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://www.ros.org/">
-    <img src="https://skillicons.dev/icons?i=ros&theme=dark" alt="ROS" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/">
-    <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" width="40" height="40"/>
-  </a>
-  <a href="https://huggingface.co/">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
-  </a>
-</p>
+<div align="center">
+  <h4><strong>Frameworks</strong></h4>
+  <p>
+    <a href="https://pytorch.org/">
+      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" width="60" height="60"/>
+    </a>
+    <a href="https://www.tensorflow.org/">
+      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" width="60" height="60"/>
+    </a>
+    <a href="https://www.ros.org/">
+      <img src="https://skillicons.dev/icons?i=ros&theme=dark" alt="ROS" width="60" height="60"/>
+    </a>
+    <a href="https://opencv.org/">
+      <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" width="60" height="60"/>
+    </a>
+    <a href="https://huggingface.co/">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="60" height="60"/>
+    </a>
+  </p>
 
-- #### **Languages**
-<p align="left">
-  <a href="https://www.cplusplus.com/">
-    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.open-std.org/jtc1/sc22/wg14/">
-    <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" width="40" height="40"/>
-  </a>
-</p>
+  <h4><strong>Languages</strong></h4>
+  <p>
+    <a href="https://www.cplusplus.com/">
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" width="60" height="60"/>
+    </a>
+    <a href="https://www.python.org/">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="60" height="60"/>
+    </a>
+    <a href="https://www.java.com/">
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="60" height="60"/>
+    </a>
+    <a href="https://www.open-std.org/jtc1/sc22/wg14/">
+      <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" width="60" height="60"/>
+    </a>
+  </p>
 
-- #### **Systems & Tools**
-<p align="left">
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.kernel.org/">
-    <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.raspberrypi.org/">
-    <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/">
-    <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" width="40" height="40"/>
-  </a>
-</p>
+  <h4><strong>Systems & Tools</strong></h4>
+  <p>
+    <a href="https://git-scm.com/">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="60" height="60"/>
+    </a>
+    <a href="https://www.docker.com/">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="60" height="60"/>
+    </a>
+    <a href="https://www.kernel.org/">
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="60" height="60"/>
+    </a>
+    <a href="https://www.raspberrypi.org/">
+      <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" width="60" height="60"/>
+    </a>
+    <a href="https://www.arduino.cc/">
+      <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" width="60" height="60"/>
+    </a>
+  </p>
+</div>
 
 ---
 
