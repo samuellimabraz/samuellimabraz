@@ -17,10 +17,10 @@
 
 <div align="center">
   <a href="https://github.com/samuellimabraz">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellimabraz&theme=one_dark_pro&layout=compact&hide=css,cmake&hide_progress=true" alt="Samuel's Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellimabraz&theme=tokyonight&layout=compact&hide=css,cmake&hide_progress=true" alt="Samuel's Top Languages" />
   </a>
   <a href="https://github.com/samuellimabraz">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=samuellimabraz&show_icons=true&theme=one_dark_pro&layout=compact&card_width=320&rank_icon=github" alt="Samuel's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=samuellimabraz&show_icons=true&theme=tokyonight&layout=compact&card_width=320&rank_icon=github&count_private=true" alt="Samuel's GitHub Stats" />
   </a>
 </div>
 
