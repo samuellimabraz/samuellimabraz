@@ -105,9 +105,3 @@
     <img height="30" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&labelColor=20BEFF&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
 </p>
-
----
-
-### **Profile Viewers**
-
-[![Samuel Lima Braz profile views](https://u8views.com/api/v1/github/profiles/115582014/views/day-week-month-total-count.svg)](https://u8views.com/github/samuellimabraz)
