@@ -1,19 +1,22 @@
-<h1 align="center">Hi, I'm Samuel Lima 👋</h1>
+<h1 align="center">Hi, I'm Samuel Lima </h1>
 
 <p align="center">
-  I'm a <strong>Computer Engineering</strong> undergraduate student with a deep passion for <strong>Robotics</strong> and <strong>Artificial Intelligence</strong>, especially in the fields of <strong>Computer Vision</strong> and <strong>Generative AI</strong>.
+  Computer Engineering undergraduate focused on <strong>Robotics</strong> and <strong>Artificial Intelligence</strong> — mainly <strong>Computer Vision</strong> and <strong>Generative AI</strong>.
+  <br/>
+  🔗 <a href="https://samuellimabraz.github.io/">Portfolio & Demos</a>
 </p>
 
 ---
 
-### 🚀 **Current Projects & Work**
+### **Current Projects & Work**
 
-- <img align="left" width="25" height="25" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f41d.gif" alt="Bee"> I'm part of [**Black Bee Drones**](https://www.instagram.com/blackbeedrones?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==), actively participating in a pioneering autonomous drone competition project.
-- <img align="center" width="30" height="30" src="https://assets-global.website-files.com/65155fabb679475d43638cde/65396826ed65fb2d37f242cf_tech4humans.png" alt="tech4h"> I work as an AI Engineer at [**Tech4Humans**](https://www.tech4h.com.br/#portfolio), focusing on developing innovative solutions in artificial intelligence.
+- <img align="left" width="30" height="30" src="https://bookface-images.s3.amazonaws.com/small_logos/ffe9932f4d6740487e7b3320b9175eda342b80a4.png" alt="Chunkr"> ML Engineer at [**Chunkr**](https://chunkr.ai/) - Document layout analysis and computer vision  
+  
+- <img align="left" width="30" height="30" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f41d.gif" alt="Bee"> I'm part of [**Black Bee Drones**](https://www.instagram.com/blackbeedrones?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) - Autonomous drone competition team
 
 ---
 
-### 📊 **GitHub Stats**
+### **GitHub Stats**
 
 <div align="center">
   <a href="https://github.com/samuellimabraz">
@@ -26,7 +29,7 @@
 
 ---
 
-### 🛠️ **Tech Stack & Tools**
+### **Tech Stack & Tools**
 
 <div align="center">
   <h4><strong>Frameworks</strong></h4>
@@ -86,7 +89,7 @@
 
 ---
 
-### 🌐 **Connect with Me**
+### **Connect with Me**
 
 <p align="center">
   <a href="mailto:contato.samuellimabraz@gmail.com">
@@ -96,12 +99,12 @@
   <a href="https://www.linkedin.com/in/samuel-lima-braz/">
     <img height="30" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
-  
-  <a href="https://www.instagram.com/samuellimabraz/">
-    <img height="30" src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
 
   <a href="https://www.kaggle.com/samuellimabraz">
     <img height="30" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&labelColor=20BEFF&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+
+  <a href="https://huggingface.co/samuellimabraz">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=fff" alt="Hugging Face">
   </a>
 </p>
