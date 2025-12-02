@@ -23,7 +23,7 @@
     <img height="180" src="https://readme-stats-six-ivory-52.vercel.app/api/top-langs/?username=samuellimabraz&theme=tokyonight&layout=compact&hide=css,cmake&hide_progress=true" alt="Samuel's Top Languages" />
   </a>
   <a href="https://github.com/samuellimabraz">
-    <img height="180" src="https://readme-stats-six-ivory-52.vercel.app/api?username=samuellimabraz&show_icons=true&theme=tokyonight&layout=compact&card_width=320&rank_icon=github&count_private=true&include_all_commits=true" alt="Samuel's GitHub Stats" />
+    <img height="180" src="https://readme-stats-six-ivory-52.vercel.app/api?username=samuellimabraz&show_icons=true&theme=tokyonight&layout=compact&card_width=320&rank_icon=github&include_all_commits=true" alt="Samuel's GitHub Stats" />
   </a>
 </div>
 
