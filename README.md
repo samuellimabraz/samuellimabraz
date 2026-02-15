@@ -117,7 +117,6 @@ Java deep learning library from scratch with Conv2D, Dense, optimizers, ND4J ten
 
 **🖐️ [Hand Mouse Controller](https://github.com/samuellimabraz/HandMouseController)**
 
-[![Stars](https://img.shields.io/github/stars/samuellimabraz/HandMouseController?style=flat-square&color=yellow)](https://github.com/samuellimabraz/HandMouseController)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
