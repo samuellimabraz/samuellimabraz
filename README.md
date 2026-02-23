@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Samuel Lima </h1>
-
 <p align="center">
   I am Samuel, a Brazilian computer engineer. I really like robotics, drones and computer vision.
   <br/>
