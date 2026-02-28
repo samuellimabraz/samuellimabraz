@@ -1,16 +1,18 @@
 <p align="center">
   I am Samuel, a Brazilian computer engineer. I really like robotics, drones and computer vision.
   <br/>
-  <img width="30" height="30" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f40e.gif" alt="Horse" style="vertical-align: middle;"> <a href="https://samuellimabraz.github.io/">Portfolio</a>
+  <img width="30" height="30" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f40e.gif" alt="Horse">
+  <br/>
+  <a href="https://samuellimabraz.github.io/">Portfolio</a>
 </p>
 
 ---
 
 ### **Current Projects & Work**
 
-- <img width="30" height="30" src="https://bookface-images.s3.amazonaws.com/small_logos/ffe9932f4d6740487e7b3320b9175eda342b80a4.png" alt="Chunkr" style="vertical-align: middle;"> ML Engineer at [**Chunkr**](https://chunkr.ai/) - Document layout analysis and computer vision
+- <img align="left" width="30" height="30" src="https://bookface-images.s3.amazonaws.com/small_logos/ffe9932f4d6740487e7b3320b9175eda342b80a4.png" alt="Chunkr"> ML Engineer at [**Chunkr**](https://chunkr.ai/) - Document layout analysis and computer vision
 
-- <img width="30" height="30" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f41d.gif" alt="Bee" style="vertical-align: middle;"> I'm part of [**Black Bee Drones**](https://www.instagram.com/blackbeedrones?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) - Autonomous drone competition, research team
+- <img align="left" width="30" height="30" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f41d.gif" alt="Bee"> &nbsp;&nbsp;&nbsp;&nbsp;  I'm part of [**Black Bee Drones**](https://www.instagram.com/blackbeedrones?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) - Autonomous drone competition, research team
 
 ---
 
