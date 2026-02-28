@@ -1,16 +1,16 @@
 <p align="center">
   I am Samuel, a Brazilian computer engineer. I really like robotics, drones and computer vision.
   <br/>
-  <a href="https://samuellimabraz.github.io/">Portfolio</a>
+  <img width="30" height="30" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f40e.gif" alt="Horse" style="vertical-align: middle;"> <a href="https://samuellimabraz.github.io/">Portfolio</a>
 </p>
 
 ---
 
 ### **Current Projects & Work**
 
-- <img align="left" width="30" height="30" src="https://bookface-images.s3.amazonaws.com/small_logos/ffe9932f4d6740487e7b3320b9175eda342b80a4.png" alt="Chunkr"> ML Engineer at [**Chunkr**](https://chunkr.ai/) - Document layout analysis and computer vision  
-  
-- <img align="left" width="30" height="30" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f41d.gif" alt="Bee"> I'm part of [**Black Bee Drones**](https://www.instagram.com/blackbeedrones?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) - Autonomous drone competition team
+- <img width="30" height="30" src="https://bookface-images.s3.amazonaws.com/small_logos/ffe9932f4d6740487e7b3320b9175eda342b80a4.png" alt="Chunkr" style="vertical-align: middle;"> ML Engineer at [**Chunkr**](https://chunkr.ai/) - Document layout analysis and computer vision
+
+- <img width="30" height="30" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f41d.gif" alt="Bee" style="vertical-align: middle;"> I'm part of [**Black Bee Drones**](https://www.instagram.com/blackbeedrones?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) - Autonomous drone competition, research team
 
 ---
 
@@ -112,12 +112,13 @@
 ### **Connect with Me**
 
 <p align="center">
-  <a href="mailto:contato.samuellimabraz@gmail.com">
-    <img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  
+
   <a href="https://www.linkedin.com/in/samuel-lima-braz/">
     <img height="30" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+  
+  <a href="https://orcid.org/0009-0001-8308-710X">
+    <img height="30" src="https://img.shields.io/badge/ORCID-0009--0001--8308--710X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
   </a>
 
   <a href="https://www.kaggle.com/samuellimabraz">
@@ -126,5 +127,9 @@
 
   <a href="https://huggingface.co/samuellimabraz">
     <img height="30" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=fff" alt="Hugging Face">
+  </a>
+  
+  <a href="mailto:contato.samuellimabraz@gmail.com">
+    <img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
