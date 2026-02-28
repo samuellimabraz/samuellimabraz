@@ -22,16 +22,15 @@
 
 - **[Signature Detection Model](https://github.com/tech4ai/t4ai-signature-detect-server)** [![Stars](https://img.shields.io/github/stars/tech4ai/t4ai-signature-detect-server?style=flat-square&color=yellow)](https://github.com/tech4ai/t4ai-signature-detect-server) — Open-source signature detection with YOLOv8, deployed with Triton (ONNX/OpenVINO). End-to-end computer vision project with more than 20 million downloads on Hugging Face.
 
+- **[Vision to MAVROS for ROS2](https://github.com/Black-Bee-Drones/vision_to_mavros)** [![Stars](https://img.shields.io/github/stars/Black-Bee-Drones/vision_to_mavros?style=flat-square&color=yellow)](https://github.com/Black-Bee-Drones/vision_to_mavros) — ROS2 bridge from Intel RealSense T265 pose to ArduPilot/PX4 via MAVROS, and utils for vSLAM with d435i and Isaac ROS.
+
 - **[PEFT: Fine-Tuning Methods for LLMs](https://huggingface.co/blog/samuellimabraz/peft-methods)** — Article and experiments studying and comparing main PEFT techniques for LLMs finetuning.
 
 - **[PID Controller for ROS2](https://github.com/Black-Bee-Drones/pid-controller)** [![Stars](https://img.shields.io/github/stars/Black-Bee-Drones/pid-controller?style=flat-square&color=yellow)](https://github.com/Black-Bee-Drones/pid-controller) — General PID controller as a ROS2 node with reconfigurable parameters in real time
 
-- **[Vision to MAVROS for ROS2](https://github.com/Black-Bee-Drones/vision_to_mavros)** [![Stars](https://img.shields.io/github/stars/Black-Bee-Drones/vision_to_mavros?style=flat-square&color=yellow)](https://github.com/Black-Bee-Drones/vision_to_mavros) — ROS2 bridge from Intel RealSense T265 pose to ArduPilot/PX4 via MAVROS, and utils for vSLAM with d435i and Isaac ROS.
-
 - **[CafeDL](https://github.com/samuellimabraz/cafedl)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/cafedl?style=flat-square&color=yellow)](https://github.com/samuellimabraz/cafedl) — Java deep learning library from scratch (Conv2D, Dense, optimizers, ND4J) plus a QuickDraw-style sketch game.
 
 - **[OpenCV Explorer](https://github.com/samuellimabraz/OpenCVGUI)** — Web app for real-time computer vision experiments with the webcam (OpenCV, Streamlit, WebRTC).
-
 
 - **[Hand Mouse Controller](https://github.com/samuellimabraz/HandMouseController)** — Mouse control with hand gestures in real time using MediaPipe.
 
