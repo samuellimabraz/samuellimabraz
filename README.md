@@ -1,5 +1,5 @@
 <p align="center">
-  I am Samuel, a Brazilian computer engineer. I really like robotics, drones and computer vision.
+  I am Samuel, a Robotics AI Engineer. I really like robotics, drones, computer vision and AI.
   <br/>
   <img width="30" height="30" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f40e.gif" alt="Horse">
   <br/>
