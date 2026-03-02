@@ -20,7 +20,7 @@
 
 - **[Nectar SDK](https://github.com/Black-Bee-Drones/nectar-sdk)** [![Stars](https://img.shields.io/github/stars/Black-Bee-Drones/nectar-sdk?style=flat-square&color=yellow)](https://github.com/Black-Bee-Drones/nectar-sdk) — ROS2 SDK for autonomous drones: unified interfaces for flight control, computer vision and object detection 
 
-- **[Quantum Assistant](https://github.com/samuellimabraz/quantum-assistant)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/quantum-assistant?style=flat-square&color=yellow)](https://github.com/samuellimabraz/quantum-assistant) — Multimodal dataset and model for quantum computing and Qiskit. My final graduation project, [preprint paper published](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6271408)
+- **[Quantum Assistant](https://github.com/samuellimabraz/quantum-assistant)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/quantum-assistant?style=flat-square&color=yellow)](https://github.com/samuellimabraz/quantum-assistant) [![SSRN Preprint](https://img.shields.io/badge/SSRN-Preprint-18A0FB?style=flat-square&logo=ssrn&logoColor=white)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6271408) — Multimodal dataset and model for quantum computing and Qiskit. My final graduation project.
 
 - **[Signature Detection Model](https://github.com/tech4ai/t4ai-signature-detect-server)** [![Stars](https://img.shields.io/github/stars/tech4ai/t4ai-signature-detect-server?style=flat-square&color=yellow)](https://github.com/tech4ai/t4ai-signature-detect-server) — Open-source signature detection with YOLOv8, deployed with Triton (ONNX/OpenVINO). End-to-end computer vision project with more than 20 million downloads on Hugging Face.
 
@@ -41,11 +41,11 @@
 ### **GitHub Stats**
 
 <div align="center">
-  <a href="https://github.com/samuellimabraz">
+  <!-- <a href="https://github.com/samuellimabraz">
     <img height="180" src="https://readme-stats-six-ivory-52.vercel.app/api/top-langs/?username=samuellimabraz&theme=tokyonight&layout=compact&hide=css,javascript,typescript,html,jupyter%20notebook&hide_progress=true&langs_count=10" alt="Samuel's Top Languages" />
-  </a>
+  </a> -->
   <a href="https://github.com/samuellimabraz">
-    <img height="180" src="https://readme-stats-six-ivory-52.vercel.app/api?username=samuellimabraz&show_icons=true&theme=tokyonight&layout=compact&card_width=320&rank_icon=github&include_all_commits=true" alt="Samuel's GitHub Stats" />
+    <img height="240" src="https://github-stats-extended.vercel.app/api?username=samuellimabraz&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=noctis_minimus&show=prs_merged,prs_merged_percentage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Samuel's GitHub Stats" />
   </a>
 </div>
 
@@ -54,59 +54,11 @@
 ### **Tech Stack & Tools**
 
 <div align="center">
-  <h4><strong>Frameworks</strong></h4>
-  <p>
-    <a href="https://pytorch.org/">
-      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" width="50" height="50"/>
-    </a>
-    <a href="https://www.tensorflow.org/">
-      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" width="50" height="50"/>
-    </a>
-    <a href="https://www.ros.org/">
-      <img src="https://skillicons.dev/icons?i=ros&theme=dark" alt="ROS" width="50" height="50"/>
-    </a>
-    <a href="https://opencv.org/">
-      <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" width="50" height="50"/>
-    </a>
-    <a href="https://huggingface.co/">
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="50" height="50"/>
-    </a>
-  </p>
 
-  <h4><strong>Languages</strong></h4>
-  <p>
-    <a href="https://www.cplusplus.com/">
-      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" width="50" height="50"/>
-    </a>
-    <a href="https://www.python.org/">
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="50" height="50"/>
-    </a>
-    <a href="https://www.java.com/">
-      <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="50" height="50"/>
-    </a>
-    <a href="https://www.open-std.org/jtc1/sc22/wg14/">
-      <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" width="50" height="50"/>
-    </a>
-  </p>
+| **Languages** | **Frameworks & Libraries** | **Systems & Tools** |
+|:---:|:---:|:---:|
+| <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="35" height="35"/></a> <a href="https://www.cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="35" height="35"/></a> <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="35" height="35"/></a> <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="35" height="35"/></a> | <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="35" height="35"/></a> <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="35" height="35"/></a> <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="35" height="35"/></a> <a href="https://www.ros.org/"><img src="https://skillicons.dev/icons?i=ros&theme=dark" width="35" height="35"/></a> <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="35" height="35"/></a> | <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="35" height="35"/></a> <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="35" height="35"/></a> <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="35" height="35"/></a> <a href="https://www.raspberrypi.org/"><img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" width="35" height="35"/></a> <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="35" height="35"/></a> |
 
-  <h4><strong>Systems & Tools</strong></h4>
-  <p>
-    <a href="https://git-scm.com/">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="50" height="50"/>
-    </a>
-    <a href="https://www.docker.com/">
-      <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="50" height="50"/>
-    </a>
-    <a href="https://www.kernel.org/">
-      <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="50" height="50"/>
-    </a>
-    <a href="https://www.raspberrypi.org/">
-      <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" width="50" height="50"/>
-    </a>
-    <a href="https://www.arduino.cc/">
-      <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" width="50" height="50"/>
-    </a>
-  </p>
 </div>
 
 ---
@@ -116,22 +68,22 @@
 <p align="center">
 
   <a href="https://www.linkedin.com/in/samuel-lima-braz/">
-    <img height="30" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn">
+    <img height="50" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat" alt="LinkedIn">
   </a>
   
   <a href="https://orcid.org/0009-0001-8308-710X">
-    <img height="30" src="https://img.shields.io/badge/ORCID-0009--0001--8308--710X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+    <img height="50" src="https://img.shields.io/badge/ORCID-0009--0001--8308--710X-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID">
   </a>
 
   <a href="https://www.kaggle.com/samuellimabraz">
-    <img height="30" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&labelColor=20BEFF&logo=kaggle&logoColor=white" alt="Kaggle">
+    <img height="50" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&labelColor=20BEFF&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
 
   <a href="https://huggingface.co/samuellimabraz">
-    <img height="30" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=fff" alt="Hugging Face">
+    <img height="50" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=fff" alt="Hugging Face">
   </a>
   
   <a href="mailto:contato.samuellimabraz@gmail.com">
-    <img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img height="50" src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
