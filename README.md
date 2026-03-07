@@ -87,7 +87,7 @@
     <img height="50" src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
-  <a href="https://samuellimabraz.github.io/">
+   <!-- <a href="https://samuellimabraz.github.io/">
     <img height="50" src="https://komarev.com/ghpvc/?username=samuellimabraz" alt="Views">
-  </a>
+  </a> -->
 </p>
