@@ -10,7 +10,7 @@
 
 ### **Current Projects & Work**
 
-- <img align="left" width="30" height="30" src="https://bookface-images.s3.amazonaws.com/small_logos/ffe9932f4d6740487e7b3320b9175eda342b80a4.png" alt="Chunkr"> ML Engineer at [**Chunkr**](https://chunkr.ai/) - Document layout analysis and computer vision
+- <img align="left" width="30" height="30" src="https://media.licdn.com/dms/image/v2/D560BAQHVL-I8cweV4Q/company-logo_200_200/B56ZVEaXYCHEAM-/0/1740609517301/chunkr_logo?e=1781740800&v=beta&t=ip0uoJsZGQ6GXBcO9dvSMSV8OFZcwGNDxCacs-uYMZo" alt="Chunkr"> ML Engineer at [**Chunkr**](https://chunkr.ai/) - Document layout analysis and computer vision
 
 - <img align="left" width="30" height="30" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f41d.gif" alt="Bee"> &nbsp;&nbsp;&nbsp;&nbsp;  I'm part of [**Black Bee Drones**](https://www.instagram.com/blackbeedrones?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) - Autonomous drone competition, research team
 
