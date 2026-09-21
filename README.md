@@ -1,5 +1,5 @@
 <p align="center">
-  I am Samuel, a Robotics AI Engineer. I really like robotics, drones, computer vision and AI.
+  Computer vision and robotics. I train, evaluate, and serve vision models, and run them on hardware.
   <br/>
   <img width="30" height="30" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f40e.gif" alt="Horse">
   <br/>
@@ -8,40 +8,57 @@
 
 ---
 
-### **Current Projects & Work**
+### **Current work**
 
-- <img align="left" width="30" height="30" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f41d.gif" alt="Bee"> &nbsp;&nbsp;&nbsp;&nbsp;  I'm part of [**Black Bee Drones**](https://www.instagram.com/blackbeedrones?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) - Autonomous drone research and competition team
+- <img align="left" width="30" height="30" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f41d.gif" alt="Bee"> &nbsp;&nbsp;&nbsp;&nbsp; Volunteer robotics engineer at [**Black Bee Drones**](https://www.instagram.com/blackbeedrones/), a UNIFEI team for autonomous indoor drones.
 
 ---
 
-### **Featured Projects**
+### **Projects**
 
-- **[Nectar SDK](https://github.com/Black-Bee-Drones/nectar-sdk)** [![Stars](https://img.shields.io/github/stars/Black-Bee-Drones/nectar-sdk?style=flat-square&color=yellow)](https://github.com/Black-Bee-Drones/nectar-sdk) — ROS2 SDK for autonomous drones: unified interfaces for flight control, computer vision and object detection 
+- **[Nectar SDK](https://github.com/Black-Bee-Drones/nectar-sdk)** [![Stars](https://img.shields.io/github/stars/Black-Bee-Drones/nectar-sdk?style=flat-square&color=yellow)](https://github.com/Black-Bee-Drones/nectar-sdk). ROS 2 kit for ArduPilot and PX4, cameras, and detection. Shared software for Black Bee missions.
 
-- **[Quantum Assistant](https://github.com/samuellimabraz/quantum-assistant)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/quantum-assistant?style=flat-square&color=yellow)](https://github.com/samuellimabraz/quantum-assistant) [![ESWA](https://img.shields.io/badge/ESWA-Elsevier-FF6C37?style=flat-square&logo=elsevier&logoColor=white)](https://doi.org/10.1016/j.eswa.2026.133931) — Multimodal dataset and model for quantum computing and Qiskit. Published in *Expert Systems with Applications*.
+- **[Quantum Assistant](https://github.com/samuellimabraz/quantum-assistant)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/quantum-assistant?style=flat-square&color=yellow)](https://github.com/samuellimabraz/quantum-assistant) [![ESWA](https://img.shields.io/badge/ESWA-Elsevier-FF6C37?style=flat-square&logo=elsevier&logoColor=white)](https://doi.org/10.1016/j.eswa.2026.133931). Synthetic multimodal data and PEFT (rsLoRA) on Qwen3-VL-8B for Qiskit. Published in *Expert Systems with Applications*. Graduation project at UNIFEI.
 
-- **[Signature Detection Model](https://github.com/tech4ai/t4ai-signature-detect-server)** [![Stars](https://img.shields.io/github/stars/tech4ai/t4ai-signature-detect-server?style=flat-square&color=yellow)](https://github.com/tech4ai/t4ai-signature-detect-server) — Open-source signature detection with YOLOv8, deployed with Triton (ONNX/OpenVINO). End-to-end computer vision project with more than 20 million downloads on Hugging Face.
+- **[Signature Detection Model](https://github.com/tech4ai/t4ai-signature-detect-server)** [![Stars](https://img.shields.io/github/stars/tech4ai/t4ai-signature-detect-server?style=flat-square&color=yellow)](https://github.com/tech4ai/t4ai-signature-detect-server) [![Post](https://img.shields.io/badge/Post-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/blog/samuellimabraz/signature-detection-model). Open-source YOLOv8s detector, served on Triton with ONNX and OpenVINO, under 200 ms on CPU. 50M+ downloads on Hugging Face.
 
-- **[Vision to MAVROS for ROS2](https://github.com/Black-Bee-Drones/vision_to_mavros)** [![Stars](https://img.shields.io/github/stars/Black-Bee-Drones/vision_to_mavros?style=flat-square&color=yellow)](https://github.com/Black-Bee-Drones/vision_to_mavros) — ROS2 bridge from Intel RealSense T265 pose to ArduPilot/PX4 via MAVROS, and utils for vSLAM with d435i and Isaac ROS.
+- **[Vision to MAVROS for ROS 2](https://github.com/Black-Bee-Drones/vision_to_mavros)** [![Stars](https://img.shields.io/github/stars/Black-Bee-Drones/vision_to_mavros?style=flat-square&color=yellow)](https://github.com/Black-Bee-Drones/vision_to_mavros). ROS 2 bridge from Intel RealSense T265 pose to ArduPilot and PX4 through MAVROS, for indoor GPS-denied flight.
 
-- **[PEFT: Fine-Tuning Methods for LLMs](https://huggingface.co/blog/samuellimabraz/peft-methods)** — Article and experiments studying and comparing main PEFT techniques for LLMs finetuning.
+- **[Chunkr Layout 1](https://chunkr.ai/blog/introducing-chunkr-layout-1-state-of-the-art-document-layout-analysis%20)** [![Post](https://img.shields.io/badge/Post-Chunkr-111111?style=flat-square)](https://chunkr.ai/blog/introducing-chunkr-layout-1-state-of-the-art-document-layout-analysis%20). Synthetic document layouts, YOLO and RF-DETR, and LayoutLMv3-Large for reading order (88.1% exact match, 98.2% Kendall's tau). Served on NVIDIA Triton.
 
-- **[PID Controller for ROS2](https://github.com/Black-Bee-Drones/pid-controller)** [![Stars](https://img.shields.io/github/stars/Black-Bee-Drones/pid-controller?style=flat-square&color=yellow)](https://github.com/Black-Bee-Drones/pid-controller) — General PID controller as a ROS2 node with reconfigurable parameters in real time
+- **[PID Controller for ROS 2](https://github.com/Black-Bee-Drones/pid-controller)** [![Stars](https://img.shields.io/github/stars/Black-Bee-Drones/pid-controller?style=flat-square&color=yellow)](https://github.com/Black-Bee-Drones/pid-controller). Generic PID as a ROS 2 node in C++, with gains that can be changed live.
 
-- **[CafeDL](https://github.com/samuellimabraz/cafedl)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/cafedl?style=flat-square&color=yellow)](https://github.com/samuellimabraz/cafedl) — Java deep learning library from scratch (Conv2D, Dense, optimizers, ND4J) plus a QuickDraw-style sketch game.
+- **[RoboArm](https://github.com/Fundacao-Asimo/RoboArm)** [![Stars](https://img.shields.io/github/stars/Fundacao-Asimo/RoboArm?style=flat-square&color=yellow)](https://github.com/Fundacao-Asimo/RoboArm). 4-DOF arm driven from a webcam with MediaPipe and OpenCV, sent to an Arduino Uno over Firmata. Built at Fundação Asimo.
 
-- **[OpenCV Explorer](https://github.com/samuellimabraz/OpenCVGUI)** — Web app for real-time computer vision experiments with the webcam (OpenCV, Streamlit, WebRTC).
+- **[TinyML Capacitor Counting](https://samuellimabraz.github.io/#projects/tinyml)**. FOMO object detection on a Seeed XIAO ESP32S3 Sense for counting capacitors. UNIFEI IESTI01 final project.
 
-- **[Hand Mouse Controller](https://github.com/samuellimabraz/HandMouseController)** — Mouse control with hand gestures in real time using MediaPipe.
+- **[Computer Vision Hangout](https://huggingface.co/spaces/samuellimabraz/cv-hangout)**. Invited walkthrough at Hugging Face's Computer Vision Hangout.
+
+- **[PEFT Methods](https://huggingface.co/blog/samuellimabraz/peft-methods)**. Comparison of full fine-tuning, LoRA, QLoRA, and IA3. English on the Hugging Face blog, Portuguese in AI News Brazil.
+
+- **[CafeDL](https://github.com/samuellimabraz/cafedl)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/cafedl?style=flat-square&color=yellow)](https://github.com/samuellimabraz/cafedl). Deep learning library in Java from scratch (Conv2D, Dense, optimizers, ND4J) and a QuickDraw-style sketch classifier.
+
+- **[OpenCV Explorer](https://github.com/samuellimabraz/OpenCVGUI)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/OpenCVGUI?style=flat-square&color=yellow)](https://github.com/samuellimabraz/OpenCVGUI). Webcam filters and trackers in the browser (OpenCV, Streamlit, WebRTC).
+
+- **[Board Bring-Up PIC18F4550](https://github.com/samuellimabraz/BoardBring-Up-PIC18F4550)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/BoardBring-Up-PIC18F4550?style=flat-square&color=yellow)](https://github.com/samuellimabraz/BoardBring-Up-PIC18F4550). Firmware in C: state machine, LCD, ADC, RTC, PWM, keypad, and USB-serial.
+
+- **[EV3 Color Sensor for Arduino](https://github.com/Fundacao-Asimo/Ev3ColorSensor)** [![Stars](https://img.shields.io/github/stars/Fundacao-Asimo/Ev3ColorSensor?style=flat-square&color=yellow)](https://github.com/Fundacao-Asimo/Ev3ColorSensor). UART library for a LEGO EV3 color sensor (red, blue, color, off). Developed at Fundação Asimo.
+
+- **[EmojiCompiler](https://github.com/samuellimabraz/EmojiCompiler)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/EmojiCompiler?style=flat-square&color=yellow)](https://github.com/samuellimabraz/EmojiCompiler). C-like language whose tokens are emojis. Lexer and parser in PLY, then translation to C. UNIFEI compilers course.
+
+- **[Kruskal MST](https://github.com/samuellimabraz/Kruskal_Algorithm-MST)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/Kruskal_Algorithm-MST?style=flat-square&color=yellow)](https://github.com/samuellimabraz/Kruskal_Algorithm-MST). Kruskal on a random graph, rendered frame by frame into a video. UNIFEI graphs course.
+
+- **[Face API](https://github.com/samuellimabraz/face-api)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/face-api?style=flat-square&color=yellow)](https://github.com/samuellimabraz/face-api). Facial recognition API with DeepFace, FastAPI, and MongoDB Atlas Vector Search.
+
+- **[Hand Mouse Controller](https://github.com/samuellimabraz/HandMouseController)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/HandMouseController?style=flat-square&color=yellow)](https://github.com/samuellimabraz/HandMouseController). Mouse from hand landmarks: index finger to move, pinch to click. OpenCV and MediaPipe.
+
+- **[EducAI](https://github.com/samuellimabraz/EducAI)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/EducAI?style=flat-square&color=yellow)](https://github.com/samuellimabraz/EducAI). Mathematics assistant with chat, OCR for handwritten problems, and graph visualization. Team project at UNIFEI.
 
 ---
 
 ### **GitHub Stats**
 
 <div align="center">
-  <!-- <a href="https://github.com/samuellimabraz">
-    <img height="180" src="https://readme-stats-six-ivory-52.vercel.app/api/top-langs/?username=samuellimabraz&theme=tokyonight&layout=compact&hide=css,javascript,typescript,html,jupyter%20notebook&hide_progress=true&langs_count=10" alt="Samuel's Top Languages" />
-  </a> -->
   <a href="https://github.com/samuellimabraz">
     <img height="240" src="https://github-stats-extended.vercel.app/api?username=samuellimabraz&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=noctis_minimus&show=prs_merged,prs_merged_percentage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Samuel's GitHub Stats" />
   </a>
@@ -68,7 +85,7 @@
   <a href="https://www.linkedin.com/in/samuel-lima-braz/">
     <img height="50" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat" alt="LinkedIn">
   </a>
-  
+
   <a href="https://orcid.org/0009-0001-8308-710X">
     <img height="50" src="https://img.shields.io/badge/ORCID-0009--0001--8308--710X-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID">
   </a>
@@ -80,12 +97,9 @@
   <a href="https://huggingface.co/samuellimabraz">
     <img height="50" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=fff" alt="Hugging Face">
   </a>
-  
+
   <a href="mailto:contato.samuellimabraz@gmail.com">
     <img height="50" src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
-   <!-- <a href="https://samuellimabraz.github.io/">
-    <img height="50" src="https://komarev.com/ghpvc/?username=samuellimabraz" alt="Views">
-  </a> -->
 </p>
