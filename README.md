@@ -38,19 +38,19 @@
 
 - **[CafeDL](https://github.com/samuellimabraz/cafedl)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/cafedl?style=flat-square&color=yellow)](https://github.com/samuellimabraz/cafedl). Deep learning library in Java from scratch (Conv2D, Dense, optimizers, ND4J) and a QuickDraw-style sketch classifier.
 
-- **[OpenCV Explorer](https://github.com/samuellimabraz/OpenCVGUI)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/OpenCVGUI?style=flat-square&color=yellow)](https://github.com/samuellimabraz/OpenCVGUI). Webcam filters and trackers in the browser (OpenCV, Streamlit, WebRTC).
+- **[OpenCV Explorer](https://github.com/samuellimabraz/OpenCVGUI)**. Webcam filters and trackers in the browser (OpenCV, Streamlit, WebRTC).
 
-- **[Board Bring-Up PIC18F4550](https://github.com/samuellimabraz/BoardBring-Up-PIC18F4550)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/BoardBring-Up-PIC18F4550?style=flat-square&color=yellow)](https://github.com/samuellimabraz/BoardBring-Up-PIC18F4550). Firmware in C: state machine, LCD, ADC, RTC, PWM, keypad, and USB-serial.
+- **[Board Bring-Up PIC18F4550](https://github.com/samuellimabraz/BoardBring-Up-PIC18F4550)**. Firmware in C: state machine, LCD, ADC, RTC, PWM, keypad, and USB-serial.
 
 - **[EV3 Color Sensor for Arduino](https://github.com/Fundacao-Asimo/Ev3ColorSensor)** [![Stars](https://img.shields.io/github/stars/Fundacao-Asimo/Ev3ColorSensor?style=flat-square&color=yellow)](https://github.com/Fundacao-Asimo/Ev3ColorSensor). UART library for a LEGO EV3 color sensor (red, blue, color, off). Developed at Fundação Asimo.
 
-- **[EmojiCompiler](https://github.com/samuellimabraz/EmojiCompiler)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/EmojiCompiler?style=flat-square&color=yellow)](https://github.com/samuellimabraz/EmojiCompiler). C-like language whose tokens are emojis. Lexer and parser in PLY, then translation to C. UNIFEI compilers course.
+- **[EmojiCompiler](https://github.com/samuellimabraz/EmojiCompiler)**. C-like language whose tokens are emojis. Lexer and parser in PLY, then translation to C. UNIFEI compilers course.
 
-- **[Kruskal MST](https://github.com/samuellimabraz/Kruskal_Algorithm-MST)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/Kruskal_Algorithm-MST?style=flat-square&color=yellow)](https://github.com/samuellimabraz/Kruskal_Algorithm-MST). Kruskal on a random graph, rendered frame by frame into a video. UNIFEI graphs course.
+- **[Kruskal MST](https://github.com/samuellimabraz/Kruskal_Algorithm-MST)**. Kruskal on a random graph, rendered frame by frame into a video. UNIFEI graphs course.
 
-- **[Face API](https://github.com/samuellimabraz/face-api)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/face-api?style=flat-square&color=yellow)](https://github.com/samuellimabraz/face-api). Facial recognition API with DeepFace, FastAPI, and MongoDB Atlas Vector Search.
+- **[Face API](https://github.com/samuellimabraz/face-api)**. Facial recognition API with DeepFace, FastAPI, and MongoDB Atlas Vector Search.
 
-- **[Hand Mouse Controller](https://github.com/samuellimabraz/HandMouseController)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/HandMouseController?style=flat-square&color=yellow)](https://github.com/samuellimabraz/HandMouseController). Mouse from hand landmarks: index finger to move, pinch to click. OpenCV and MediaPipe.
+- **[Hand Mouse Controller](https://github.com/samuellimabraz/HandMouseController)**. Mouse from hand landmarks: index finger to move, pinch to click. OpenCV and MediaPipe.
 
 - **[EducAI](https://github.com/samuellimabraz/EducAI)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/EducAI?style=flat-square&color=yellow)](https://github.com/samuellimabraz/EducAI). Mathematics assistant with chat, OCR for handwritten problems, and graph visualization. Team project at UNIFEI.
 
