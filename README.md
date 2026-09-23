@@ -10,7 +10,7 @@
 
 ### **Current work**
 
-- <img align="left" width="30" height="30" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f41d.gif" alt="Bee"> &nbsp;&nbsp;&nbsp;&nbsp; Volunteer robotics engineer at [**Black Bee Drones**](https://www.instagram.com/blackbeedrones/), a UNIFEI team for autonomous indoor drones.
+- <img align="left" width="30" height="30" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f41d.gif" alt="Bee"> &nbsp;&nbsp;&nbsp;&nbsp; Volunteer robotics engineer at [**Black Bee Drones**](https://github.com/Black-Bee-Drones), a UNIFEI team for autonomous indoor drones.
 
 ---
 
