@@ -54,6 +54,10 @@
 
 - **[EducAI](https://github.com/samuellimabraz/EducAI)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/EducAI?style=flat-square&color=yellow)](https://github.com/samuellimabraz/EducAI). Mathematics assistant with chat, OCR for handwritten problems, and graph visualization. Team project at UNIFEI.
 
+- **[Agent4ai](https://github.com/samuellimabraz/Agent4ai)**. Conversational agent for Tech4Humans onboarding. LangGraph routes each question to company documents, Tavily web search, or Google Calendar.
+
+- **[Sorting Algorithms](https://github.com/samuellimabraz/SortingAlgorithms)**. C++ implementations of Bubble, Selection, Insertion, Shell, Merge, and Quick Sort, timed on strings and integers. A Tkinter GUI plots the times.
+
 ---
 
 ### **GitHub Stats**
