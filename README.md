@@ -26,6 +26,8 @@
 
 - **[Chunkr Layout 1](https://chunkr.ai/blog/introducing-chunkr-layout-1-state-of-the-art-document-layout-analysis%20)** [![Post](https://img.shields.io/badge/Post-Chunkr-111111?style=flat-square)](https://chunkr.ai/blog/introducing-chunkr-layout-1-state-of-the-art-document-layout-analysis%20). Synthetic document layouts, YOLO and RF-DETR, and LayoutLMv3-Large for reading order (88.1% exact match, 98.2% Kendall's tau). Served on NVIDIA Triton.
 
+- **[CafeDL](https://github.com/samuellimabraz/cafedl)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/cafedl?style=flat-square&color=yellow)](https://github.com/samuellimabraz/cafedl). Deep learning library in Java from scratch (Conv2D, Dense, optimizers, ND4J) and a QuickDraw-style sketch classifier.
+
 - **[PID Controller for ROS 2](https://github.com/Black-Bee-Drones/pid-controller)** [![Stars](https://img.shields.io/github/stars/Black-Bee-Drones/pid-controller?style=flat-square&color=yellow)](https://github.com/Black-Bee-Drones/pid-controller). Generic PID as a ROS 2 node in C++, with gains that can be changed live.
 
 - **[RoboArm](https://github.com/Fundacao-Asimo/RoboArm)** [![Stars](https://img.shields.io/github/stars/Fundacao-Asimo/RoboArm?style=flat-square&color=yellow)](https://github.com/Fundacao-Asimo/RoboArm). 4-DOF arm driven from a webcam with MediaPipe and OpenCV, sent to an Arduino Uno over Firmata. Built at Fundação Asimo.
@@ -35,8 +37,6 @@
 - **[Computer Vision Hangout](https://huggingface.co/spaces/samuellimabraz/cv-hangout)**. Invited walkthrough at Hugging Face's Computer Vision Hangout.
 
 - **[PEFT Methods](https://huggingface.co/blog/samuellimabraz/peft-methods)**. Comparison of full fine-tuning, LoRA, QLoRA, and IA3. English on the Hugging Face blog, Portuguese in AI News Brazil.
-
-- **[CafeDL](https://github.com/samuellimabraz/cafedl)** [![Stars](https://img.shields.io/github/stars/samuellimabraz/cafedl?style=flat-square&color=yellow)](https://github.com/samuellimabraz/cafedl). Deep learning library in Java from scratch (Conv2D, Dense, optimizers, ND4J) and a QuickDraw-style sketch classifier.
 
 - **[OpenCV Explorer](https://github.com/samuellimabraz/OpenCVGUI)**. Webcam filters and trackers in the browser (OpenCV, Streamlit, WebRTC).
 
